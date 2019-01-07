@@ -1,2 +1,2 @@
 # Jstation
-js station for js coders
+A station for js coders
