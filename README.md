@@ -1,4 +1,4 @@
-# Jstation
+# JStation
 A station for js coders
 
 ## Project setup
